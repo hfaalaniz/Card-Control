@@ -15,3 +15,4 @@
 
 * The top picturebox margins can be adjusted so that the image does not touch the edges.
 
+* ![Image Card Control](CardControl.png)
